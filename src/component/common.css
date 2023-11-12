@@ -1,0 +1,19 @@
+td {
+  width: 300px;
+  background-color: rgb(240, 138, 138);
+  padding: 10px;
+  border: solid white 15px;
+}
+
+input {
+  border: none;
+  height: 30px;
+  width: 200px;
+  padding: 0px 10px;
+}
+
+tr {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
